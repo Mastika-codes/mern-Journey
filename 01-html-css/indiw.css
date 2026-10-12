@@ -1,0 +1,64 @@
+body{
+    background-color: #054e6c;
+}
+div{
+    text-align: right;
+}
+table, th, td{
+    border: 2px solid brown;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+th{
+    text-align: center;
+}
+a{
+    color: white;
+}
+.ma{
+   text-align: center;
+   width:100%;
+   color: white;
+   border-collapse: collapse;
+}
+.maa{
+    width: 100%;
+    color: white;
+    border-collapse:collapse;
+}
+.na.th{
+    font-style: italic;
+}
+.na{
+    width: 90%;
+    color: white;
+    border-collapse:collapse;
+    margin: auto;
+}
+.naa{
+    width: 50%;
+    text-align: left;
+    color: white;
+    margin: auto;
+}
+.naf u{
+    text-decoration-color: black;
+}
+.naf{
+    border-collapse: collapse;
+    width: 100%;
+    color:white;
+}
+tfoot{
+    text-align:center;
+    color:rgb(135, 70, 195);
+}
+.maa td{
+    width: 33.33%;
+    text-align:center;
+}
+.naf tbody{
+    text-align: center;
+}
