@@ -1,0 +1,33 @@
+.tahoma{
+    font-family: Tahoma;
+    font-weight:600;
+}
+.Arial{
+    font-family: Arial;
+    font-weight: 600;
+}
+.arial1{
+    font-size: 15px;
+    color: red;
+    font-weight:400;
+    font-style:italic;
+}
+.Verdana{
+    font-weight:600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;
+}
+.Verdana2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;
+}
+.verdana1{
+    color:grey;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+.botton{
+    background-color: green;
+    color:white;
+
+}

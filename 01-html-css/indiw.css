@@ -62,3 +62,10 @@ tfoot{
 .naf tbody{
     text-align: center;
 }
+a{
+    text-decoration: none;
+}
+.mama{
+    text-decoration: underline;
+    text-decoration-color:blue;
+}
